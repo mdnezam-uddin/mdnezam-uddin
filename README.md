@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Devoloper
 -------------------
 
-I'm MD Nezam Uddin, a passionate full-stack developer with 2+ years of experience building modern web apps using React, Node.js, Express, and MongoDB. I love turning ideas into real-world solutions and constantly push myself to code like a expert developer— writing clean, scalable, and efficient software. Currently, I’m deepening my skills in Next.js, GraphQL, Docker, and cloud deployment, while also exploring AI integration and system design. My goal is to become an expert developer who builds smart, impactful, and user-focused applications.
+I'm MD NEZAM UDDIN, a passionate full-stack developer with 2+ years of experience building modern web apps using React, Node.js, Express, and MongoDB. I love turning ideas into real-world solutions and constantly push myself to code like a expert developer— writing clean, scalable, and efficient software. Currently, I’m deepening my skills in Next.js, AWS, and cloud deployment, while also exploring AI integration and system design. My goal is to become an expert developer who builds smart, impactful, and user-focused applications.
 
-*   🌍  I'm based in Chengdu, Sichuan
+*   🌍  I'm based in Chengdu, Sichuan.
 *   ✉️  You can contact me at [nezam0266@gmail.com](mailto:nezam0266@gmail.com)
 *   🧠  I'm learning AI integration.
 *   🤝  I'm open to collaborating on projects.
