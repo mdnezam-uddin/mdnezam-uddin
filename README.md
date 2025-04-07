@@ -51,7 +51,7 @@ I'm MD Nezam Uddin, a passionate full-stack developer with 2+ years of experienc
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnezam-uddin" alt="mdnezam-uddin" /></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdnezam-uddin/mdnezam-uddin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdnezam-uddin/mdnezam-uddin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mdnezam-uddin/mdnezam-uddin/output/github-snake.svg" />
 </picture>
