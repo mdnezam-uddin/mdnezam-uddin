@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Nezam.
 ======================================================================================================================================
 
-Fullstack Devoloper
+Full-Stack Developer
 -------------------
 
 I'm MD NEZAM UDDIN, a passionate full-stack developer with 2+ years of experience building modern web apps using React, Node.js, Express, and MongoDB. I love turning ideas into real-world solutions and constantly push myself to code like a expert developer— writing clean, scalable, and efficient software. Currently, I’m deepening my skills in Next.js, AWS, and cloud deployment, while also exploring AI integration and system design. My goal is to become an expert developer who builds smart, impactful, and user-focused applications.
