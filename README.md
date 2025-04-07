@@ -1,15 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MD NEZAM UDDIN
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) This is Nezam.
 ======================================================================================================================================
 
 Fullstack Devoloper
 -------------------
 
-Hi, I'm MD Nezam Uddin, a dedicated and self-motivated software engineer with over 3 years of experience in web development. I specialize in building full-stack applications with modern tools and frameworks like React.js, Node.js, Express, and MongoDB. I’m passionate about transforming ideas into real-world applications. What started as a curiosity has become a lifelong mission. I’ve spent countless hours mastering front-end design, learning the art of responsive UIs, and understanding how scalable back-end systems are architected. With every project, I aim to think like a developer: writing clean code, optimizing for performance, following best practices, and solving problems creatively. I'm currently focused on: 🔄 Mastering full-stack architecture with technologies like Next.js and AI integration 🧠 Sharpening my skills in data structures, algorithms, and system design 🗣️ Improving my communication, collaboration, and open-source contribution skills My dream is to become an expert AI-driven full-stack developer, capable of building intelligent, user-centric software products that scale. I'm also committed to sharing knowledge, mentoring others, and staying curious forever. Let’s connect, collaborate, and build the future — one line of code at a time.
+I'm MD Nezam Uddin, a passionate full-stack developer with 3+ years of experience building modern web apps using React, Node.js, Express, and MongoDB. I love turning ideas into real-world solutions and constantly push myself to code like a developer with 10 years of experience — writing clean, scalable, and efficient software. Currently, I’m deepening my skills in Next.js, GraphQL, Docker, and cloud deployment, while also exploring AI integration and system design. My goal is to become an expert developer who builds smart, impactful, and user-focused applications.
 
 *   🌍  I'm based in Chengdu, Sichuan
 *   ✉️  You can contact me at [nezam0266@gmail.com](mailto:nezam0266@gmail.com)
 *   🧠  I'm learning AI integration.
 *   🤝  I'm open to collaborating on projects.
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
